@@ -44,6 +44,8 @@ A demonstration GIF and screenshots of the system will be added below.
 
 ## Screenshots
 
+![MixFlow HMI](PMixing.jpeg)
+![MixFlow HMI](IMixing.jpeg)
 ![MixFlow HMI](AMixing.jpeg)
 
 ## Project Goals
