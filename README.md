@@ -36,7 +36,7 @@ The system demonstrates the following process:
 
 The project is designed for simulation purposes and does not require physical industrial hardware.
 
-A demonstration GIF and screenshots of the system will be added below.
+ Screenshots of the system will be added below.
 
 
 ## Screenshots
