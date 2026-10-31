@@ -38,9 +38,6 @@ The project is designed for simulation purposes and does not require physical in
 
 A demonstration GIF and screenshots of the system will be added below.
 
-## Demo
-
-<!-- Add your GIF here -->
 
 ## Screenshots
 - Before Operation
