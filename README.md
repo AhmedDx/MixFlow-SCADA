@@ -44,7 +44,7 @@ A demonstration GIF and screenshots of the system will be added below.
 
 ## Screenshots
 
-<!-- Add project screenshots here -->
+![MixFlow HMI](AMixing.jpeg)
 
 ## Project Goals
 
