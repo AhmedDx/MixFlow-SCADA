@@ -64,5 +64,5 @@ A demonstration GIF and screenshots of the system will be added below.
 
 ## Author
 
-**AhmedDx**
+**Ahmed Mohammed Ahmed**
 
